@@ -24,16 +24,17 @@ A recent research on this topic has uncovered the fact that there are systems th
 
 ## 1. Shoppi Buddy 
 Since the application will be created using C++ language and other open source tools, the cost of developing the application is zero rupees. The only major costs involved will come into play once the system is ready to be used. Usually apps like this cost a lot when they as for membership and other things. The system has the following functionalities: 
-    |Feature | Description                              |
-    |--------| -----------------------------------------|
-    |`F1`    | The system automatically checks for different stores nearby and dispays the waiting time for each store |
-    |`F2`    | Once a user chooses a store, the system displays the category of items present in the store for the user to select stuff from |
-    |`F3`    | For each category, all the relevant shopping items are displayed and the user can choose any item to add into the cart |
-    |`F4`    | For each item, the system shows the position of that item in the shopping complex (Aisle number), expiry date, cost, discount offered, availability, category and billing details |
-    |`F5`    | The system also calculates the shortest route for the shopper to travel in the shopping complex in order to get all the items in minimum time |
-    |`F6`    | The system calculates and sorts the items based on discount, aisle positions, category and expiry date for the user to check before buying the item |
-    |`F7`    | The system displays each item selected by the user and calculates the total cost of the cart based on all the discounted values and shows the user if any item selected by him or her has already expired or is going to expire anytime soon |
-    |`F8`    | Once the user is done shopping, the system provides information about billing counter based on number of items chosen by the user, queue length at the billing counter and availability of the counters | 
+
+|Feature | Description |
+| ------ | ----------------------------------------- |
+|`F1`    | The system automatically checks for different stores nearby and dispays the waiting time for each store |
+|`F2`    | Once a user chooses a store, the system displays the category of items present in the store for the user to select stuff from |
+|`F3`    | For each category, all the relevant shopping items are displayed and the user can choose any item to add into the cart |
+|`F4`    | For each item, the system shows the position of that item in the shopping complex (Aisle number), expiry date, cost, discount offered, availability, category and billing details |
+|`F5`    | The system also calculates the shortest route for the shopper to travel in the shopping complex in order to get all the items in minimum time |
+|`F6`    | The system calculates and sorts the items based on discount, aisle positions, category and expiry date for the user to check before buying the item |
+|`F7`    | The system displays each item selected by the user and calculates the total cost of the cart based on all the discounted values and shows the user if any item selected by him or her has already expired or is going to expire anytime soon |
+|`F8`    | Once the user is done shopping, the system provides information about billing counter based on number of items chosen by the user, queue length at the billing counter and availability of the counters | 
 
 The system designed is very cost effective as it integrates all the underlying factors and is very cost effective when it comes to shopping assistance.
 
