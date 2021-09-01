@@ -80,15 +80,16 @@ The system designed is very cost effective as it integrates all the underlying f
 | LLR02 | The user shall be able to select the store he or she wants to go to based on number of discounted items and total bill discount provided by the store | Requirement | HLR01 | TBD |
 | LLR03 | The user shall be able to select the store he or she wants to go to based on the category from which he or she wants to buy things | Scenario |  HLR01 | TBD |
 | LLR04 | The user shall be able to select the category and see what items are present in the store for that category | Requirement | HLR02 | TBD |
-| LLR06 |  | Requirement | HLR02 | TBD |
-| LLR07 |  | Requirement | HLR02 | TBD |
-| LLR08 |  | Requirement | HLR02 | TBD |
-| LLR09 |  | Requirement | HLR02 | TBD |
-| LLR10 |  | Requirement | HLR02 | TBD |
-| LLR11 |  | Requirement | HLR02 | TBD |
-| LLR12 |  | Requirement | HLR02 | TBD |
-| LLR13 |  | Requirement | HLR02 | TBD |
-| LLR14 |  | Requirement | HLR02 | TBD |
-| LLR15 |  | Requirement | HLR02 | TBD |
-| LLR16 |  | Requirement | HLR02 | TBD |
-| LLR17 |  | Requirement | HLR02 | TBD |
+| LLR06 | The user shall be alble to select items from a category based on availability and user requirement | Requirement | HLR02 | TBD |
+| LLR07 | The user shall be able to sort the items based on cost | Boundary | HLR03, HLR06 | TBD |
+| LLR08 | The user shall be able to sort the items based on aisle number to reduce the distance travelled in the shop | Scenario | HLR03, HLR06 | TBD |
+| LLR09 | The user shall be able to sort the itmes based on discount values for each item | Requirement | HLR03, HLR06 | TBD |
+| LLR10 | The user shall be able to check the expiry dates for the itmes close to expiry and choose accordingly | Boundary | HLR03, HLR06 | TBD |
+| LLR11 | The user shall be able to get an online mock bill with total cost and items displayed in a sorted manner | Requirement | HLR04 | TBD |
+| LLR12 | The user shall be able to get an online bill with the real vs discounted prices for all the stores for the selected items | Scenario | HLR04 | TBD |
+| LLR13 | The user shall be able to get benefits and more discount if he or she is a store member | Scenario | HLR04 | TBD |
+| LLR14 | The user shall select the billing counter based on number of items in the cart (Some billing counters are for less number of items, some are for more) | Scenario | HLR05 | TBD |
+| LLR15 | The user shall be able to select the billing counter based on queue size near the counter | Scenario | HLR05 | TBD |
+| LLR16 | The user shall be able to select the billing counter based on payment options (Cash, card or UPI) | Scenario | HLR05 | TBD |
+| LLR17 | The user shal be able to select or deselct items near the billing counter as final adjustments to the budget | Boundary | HLR03, HLR06 | TBD |
+| LLR18 | The user shall be able to change the store in between if the number of people in the store decreases or other store is offering more discount | Requirement | HLR01, HLR02 | TBD |
