@@ -99,3 +99,14 @@ The system designed is very cost effective as it integrates all the underlying f
 | LLR16 | The user shall be able to select the billing counter based on payment options (Cash, card or UPI) | Scenario | HLR05 | TBD |
 | LLR17 | The user shal be able to select or deselct items near the billing counter as final adjustments to the budget | Boundary | HLR03, HLR06 | TBD |
 | LLR18 | The user shall be able to change the store in between if the number of people in the store decreases or other store is offering more discount | Requirement | HLR01, HLR02 | TBD |
+| LLR19 | User choice shall be accepted from the main menu|Requirement |HLR07|TBD|
+| LLR20 | CSV file shall be read for store names and locations|Requirement |HLR07|TBD|
+| LLR21 | User current location and destination shall be recorded|Requirement |HLR08|TBD|
+| LLR22 | Time to commute from current location to destination directly shall be calculated|Scenario|HLR08|TBD|
+| LLR23 | Shortest distance from current location to destination directly shall be calculated|Scenario|HLR08|TBD|
+| LLR24 | User choice regarding mall floor to be explored shall be recorde|Scenario|HLR09|TBD|
+| LLR25 | User current location and all stop points till destination shall be recorded|Requirement|HLR09|TBD|
+| LLR26 | Distance to be covered in current plan shall be calculated|Scenario|HLR09|TBD|
+| LLR27 | Tentative time taken to complete current plan shall be calculated|Scenario| HLR10|TBD|
+| LLR28 | Shop will be added or removed as per Mall admin's choice|Requirement| HLR11|TBD|
+
