@@ -72,6 +72,12 @@ The system designed is very cost effective as it integrates all the underlying f
 | HLR04 | The user shall be able to get an online bill with all the calculations and comparison from other stores as well | Scenario | TBD |
 | HLR05 | The user shall select which billling counter he or she wants to go to based on the number of items, queue and other conditions | Scenario | TBD |
 | HLR06 | The user shall utilize item description, automatic sorting based on aisle location, discount values, cost and other features | Boundary | TBD |
+| HLR07 | The user shall choose their method of navigation from the Mall-Navi main menu|Requirement|TBD|
+| HLR08 | The user shall be provided with parameters for travel to an immediate destination|Requirement|TBD|
+| HLR09 | The user shall be provided total distance to be covered as per their current explore plan|Scenario|TBD|
+| HLR10 | The user shall be provided with total time for their current explore plan|Scenario|TBD|
+| HLR11 | Mall admin shall be able to add or remove a store|Requirement|TBD|
+
 
 ## LOW LEVEL REQUIREMENTS (LLR)
 |  ID   | Description |  Category   | High Level ID | Status | 
