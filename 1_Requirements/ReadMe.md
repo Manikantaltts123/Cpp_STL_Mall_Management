@@ -72,6 +72,12 @@ The system designed is very cost effective as it integrates all the underlying f
 | HLR04 | The user shall be able to get an online bill with all the calculations and comparison from other stores as well | Scenario | TBD |
 | HLR05 | The user shall select which billling counter he or she wants to go to based on the number of items, queue and other conditions | Scenario | TBD |
 | HLR06 | The user shall utilize item description, automatic sorting based on aisle location, discount values, cost and other features | Boundary | TBD |
+| HLR07 | The user shall choose their method of navigation from the Mall-Navi main menu|Requirement|TBD|
+| HLR08 | The user shall be provided with parameters for travel to an immediate destination|Requirement|TBD|
+| HLR09 | The user shall be provided total distance to be covered as per their current explore plan|Scenario|TBD|
+| HLR10 | The user shall be provided with total time for their current explore plan|Scenario|TBD|
+| HLR11 | Mall admin shall be able to add or remove a store|Requirement|TBD|
+
 
 ## LOW LEVEL REQUIREMENTS (LLR)
 |  ID   | Description |  Category   | High Level ID | Status | 
@@ -93,3 +99,14 @@ The system designed is very cost effective as it integrates all the underlying f
 | LLR16 | The user shall be able to select the billing counter based on payment options (Cash, card or UPI) | Scenario | HLR05 | TBD |
 | LLR17 | The user shal be able to select or deselct items near the billing counter as final adjustments to the budget | Boundary | HLR03, HLR06 | TBD |
 | LLR18 | The user shall be able to change the store in between if the number of people in the store decreases or other store is offering more discount | Requirement | HLR01, HLR02 | TBD |
+| LLR19 | User choice shall be accepted from the main menu|Requirement |HLR07|TBD|
+| LLR20 | CSV file shall be read for store names and locations|Requirement |HLR07|TBD|
+| LLR21 | User current location and destination shall be recorded|Requirement |HLR08|TBD|
+| LLR22 | Time to commute from current location to destination directly shall be calculated|Scenario|HLR08|TBD|
+| LLR23 | Shortest distance from current location to destination directly shall be calculated|Scenario|HLR08|TBD|
+| LLR24 | User choice regarding mall floor to be explored shall be recorde|Scenario|HLR09|TBD|
+| LLR25 | User current location and all stop points till destination shall be recorded|Requirement|HLR09|TBD|
+| LLR26 | Distance to be covered in current plan shall be calculated|Scenario|HLR09|TBD|
+| LLR27 | Tentative time taken to complete current plan shall be calculated|Scenario| HLR10|TBD|
+| LLR28 | Shop will be added or removed as per Mall admin's choice|Requirement| HLR11|TBD|
+
