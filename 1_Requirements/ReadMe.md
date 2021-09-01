@@ -49,7 +49,7 @@ The system designed is very cost effective as it integrates all the underlying f
 
 
 # SWOT ANALYSIS
-
+![Description](swot_analysis.png)
 
 # 4Ws and 1H
 ## WHO
